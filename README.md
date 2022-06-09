@@ -1,2 +1,2 @@
 # BCWildfires
-This is a web app to help track BC Wildfires,
+I have a suspicion that property developers and insurance companies insuring infrastructure projects have access to risk levels of their investment as it relates to climate change but the schmucks buying the condos / property do not. This app is my way of attempting to level the playiung field and provide point and polygon location data of current wildfire data in British Columbia, Canada. The hope is to eventually be able to use machine learning to be able to predict location and severity of future fires based on previous data and climate modeling to give the schmucks some access to information the sellers and insurers may already have.
