@@ -1,2723 +1,2578 @@
 {
-    "Fire points": {
-        "G40072": {
-            "properties": {
-                "fire status": "Out",
-                "fire cause": "Person",
-                "object_id": 30229912,
-                "location description": "Engn",
-                "coordinates": {
-                    "latitude": 54.0261,
-                    "longitude": -124.2058
-                },
-                "ignition date": {
-                    "complete": "2022-04-17",
-                    "day": 17,
-                    "month": 4,
-                    "year": 2022
-                }
-            }
-        },
+    "2022-07-01": {
         "C50071": {
             "properties": {
                 "fire status": "Out",
                 "fire cause": "Person",
-                "object_id": 30229913,
+                "object_id": "Person",
                 "location description": "Redstone Reserve",
                 "coordinates": {
                     "latitude": 52.1425,
                     "longitude": -123.9607
                 },
-                "ignition date": {
-                    "complete": "2022-04-17",
-                    "day": 17,
-                    "month": 4,
-                    "year": 2022
-                }
+                "ignition date": "2022-04-17"
             }
         },
         "C20103": {
             "properties": {
                 "fire status": "Out",
                 "fire cause": "Person",
-                "object_id": 30229914,
+                "object_id": "Person",
                 "location description": "140 Mile House",
                 "coordinates": {
                     "latitude": 51.9963,
                     "longitude": -121.8585
                 },
-                "ignition date": {
-                    "complete": "2022-04-23",
-                    "day": 23,
-                    "month": 4,
-                    "year": 2022
-                }
+                "ignition date": "2022-04-23"
             }
         },
         "C20104": {
             "properties": {
                 "fire status": "Out",
                 "fire cause": "Person",
-                "object_id": 30229915,
+                "object_id": "Person",
                 "location description": "Riske Creek",
                 "coordinates": {
                     "latitude": 51.9524,
                     "longitude": -122.4285
                 },
-                "ignition date": {
-                    "complete": "2022-04-23",
-                    "day": 23,
-                    "month": 4,
-                    "year": 2022
-                }
+                "ignition date": "2022-04-23"
             }
         },
         "N10135": {
             "properties": {
                 "fire status": "Out",
                 "fire cause": "Person",
-                "object_id": 30229916,
+                "object_id": "Person",
                 "location description": "Matevic Rd",
                 "coordinates": {
                     "latitude": 49.7441,
                     "longitude": -114.9027
                 },
-                "ignition date": {
-                    "complete": "2022-04-30",
-                    "day": 30,
-                    "month": 4,
-                    "year": 2022
-                }
+                "ignition date": "2022-04-30"
+            }
+        },
+        "G90393": {
+            "properties": {
+                "fire status": "New",
+                "fire cause": "Unknown",
+                "object_id": "Unknown",
+                "location description": null,
+                "coordinates": {
+                    "latitude": 58.9583,
+                    "longitude": -126.5542
+                },
+                "ignition date": "2022-06-30"
+            }
+        },
+        "G10395": {
+            "properties": {
+                "fire status": "New",
+                "fire cause": "Unknown",
+                "object_id": "Unknown",
+                "location description": "Davie Lake",
+                "coordinates": {
+                    "latitude": 54.5246,
+                    "longitude": -122.7726
+                },
+                "ignition date": "2022-06-30"
             }
         },
         "G80182": {
             "properties": {
                 "fire status": "Out",
                 "fire cause": "Person",
-                "object_id": 30229917,
+                "object_id": "Person",
                 "location description": "Bear Flats",
                 "coordinates": {
                     "latitude": 56.285,
                     "longitude": -121.227
                 },
-                "ignition date": {
-                    "complete": "2022-05-13",
-                    "day": 13,
-                    "month": 5,
-                    "year": 2022
-                }
+                "ignition date": "2022-05-13"
+            }
+        },
+        "C50332": {
+            "properties": {
+                "fire status": "Out",
+                "fire cause": "Person",
+                "object_id": "Person",
+                "location description": "Ulkatcho Reserve",
+                "coordinates": {
+                    "latitude": 52.4677,
+                    "longitude": -125.3068
+                },
+                "ignition date": "2022-06-23"
+            }
+        },
+        "V60374": {
+            "properties": {
+                "fire status": "Out",
+                "fire cause": "Person",
+                "object_id": "Person",
+                "location description": "Skutz Falls",
+                "coordinates": {
+                    "latitude": 48.7548,
+                    "longitude": -123.8776
+                },
+                "ignition date": "2022-06-29"
+            }
+        },
+        "V10389": {
+            "properties": {
+                "fire status": "Out",
+                "fire cause": "Unknown",
+                "object_id": "Unknown",
+                "location description": "Hicks Lake Rd",
+                "coordinates": {
+                    "latitude": 49.3413,
+                    "longitude": -121.7448
+                },
+                "ignition date": "2022-06-30"
+            }
+        },
+        "G60391": {
+            "properties": {
+                "fire status": "New",
+                "fire cause": "Person",
+                "object_id": "Person",
+                "location description": "9 Miles West of Ingenika",
+                "coordinates": {
+                    "latitude": 56.7863,
+                    "longitude": -125.1739
+                },
+                "ignition date": "2022-06-30"
             }
         },
         "K20084": {
             "properties": {
                 "fire status": "Out",
                 "fire cause": "Person",
-                "object_id": 30229918,
+                "object_id": "Person",
                 "location description": "Spatsum Creek",
                 "coordinates": {
                     "latitude": 50.5631,
                     "longitude": -121.2946
                 },
-                "ignition date": {
-                    "complete": "2022-04-20",
-                    "day": 20,
-                    "month": 4,
-                    "year": 2022
-                }
+                "ignition date": "2022-04-20"
             }
         },
         "C50030": {
             "properties": {
                 "fire status": "Out",
                 "fire cause": "Person",
-                "object_id": 30229919,
+                "object_id": "Person",
                 "location description": "Hwy 20 W Alexis Creek",
                 "coordinates": {
                     "latitude": 52.1089,
                     "longitude": -123.487
                 },
-                "ignition date": {
-                    "complete": "2022-04-10",
-                    "day": 10,
-                    "month": 4,
-                    "year": 2022
-                }
+                "ignition date": "2022-04-10"
             }
         },
         "C50029": {
             "properties": {
                 "fire status": "Out",
                 "fire cause": "Person",
-                "object_id": 30229920,
+                "object_id": "Person",
                 "location description": "Hwy 20 W Alexis Creek",
                 "coordinates": {
                     "latitude": 52.113,
                     "longitude": -123.4431
                 },
-                "ignition date": {
-                    "complete": "2022-04-10",
-                    "day": 10,
-                    "month": 4,
-                    "year": 2022
-                }
+                "ignition date": "2022-04-10"
             }
         },
         "K20041": {
             "properties": {
                 "fire status": "Out",
                 "fire cause": "Unknown",
-                "object_id": 30229921,
+                "object_id": "Unknown",
                 "location description": "Meadow Road",
                 "coordinates": {
                     "latitude": 50.8593,
                     "longitude": -120.6737
                 },
-                "ignition date": {
-                    "complete": "2022-04-12",
-                    "day": 12,
-                    "month": 4,
-                    "year": 2022
-                }
+                "ignition date": "2022-04-12"
             }
         },
         "G80265": {
             "properties": {
-                "fire status": "Under Control",
+                "fire status": "Out",
                 "fire cause": "Lightning",
-                "object_id": 30229922,
+                "object_id": "Lightning",
                 "location description": "North Side of Sikanni River",
                 "coordinates": {
                     "latitude": 57.3972,
                     "longitude": -122.3773
                 },
-                "ignition date": {
-                    "complete": "2022-06-03",
-                    "day": 3,
-                    "month": 6,
-                    "year": 2022
-                }
+                "ignition date": "2022-06-03"
             }
         },
         "K70284": {
             "properties": {
-                "fire status": "New",
-                "fire cause": "Unknown",
-                "object_id": 30229923,
-                "location description": "Hwy 12",
+                "fire status": "Out",
+                "fire cause": "Person",
+                "object_id": "Person",
+                "location description": "Munson Road",
                 "coordinates": {
-                    "latitude": 50.6197,
-                    "longitude": -121.8479
+                    "latitude": 50.6196,
+                    "longitude": -121.8471
                 },
-                "ignition date": {
-                    "complete": "2022-06-08",
-                    "day": 8,
-                    "month": 6,
-                    "year": 2022
-                }
+                "ignition date": "2022-06-08"
             }
         },
         "C50044": {
             "properties": {
                 "fire status": "Out",
                 "fire cause": "Person",
-                "object_id": 30229924,
+                "object_id": "Person",
                 "location description": "Junction Chezacut Rd and Hwy 20",
                 "coordinates": {
                     "latitude": 52.1258,
                     "longitude": -123.6822
                 },
-                "ignition date": {
-                    "complete": "2022-04-12",
-                    "day": 12,
-                    "month": 4,
-                    "year": 2022
-                }
+                "ignition date": "2022-04-12"
             }
         },
         "N10082": {
             "properties": {
                 "fire status": "Out",
                 "fire cause": "Person",
-                "object_id": 30229925,
+                "object_id": "Person",
                 "location description": "Jaffery Baynes Lake Road",
                 "coordinates": {
                     "latitude": 49.3101,
                     "longitude": -115.2868
                 },
-                "ignition date": {
-                    "complete": "2022-04-18",
-                    "day": 18,
-                    "month": 4,
-                    "year": 2022
-                }
+                "ignition date": "2022-04-18"
             }
         },
         "R40205": {
             "properties": {
                 "fire status": "Out",
                 "fire cause": "Person",
-                "object_id": 30229926,
+                "object_id": "Person",
                 "location description": "Skeena Crossing",
                 "coordinates": {
                     "latitude": 55.1,
                     "longitude": -127.8124
                 },
-                "ignition date": {
-                    "complete": "2022-05-21",
-                    "day": 21,
-                    "month": 5,
-                    "year": 2022
-                }
+                "ignition date": "2022-05-21"
+            }
+        },
+        "G70295": {
+            "properties": {
+                "fire status": "Out",
+                "fire cause": "Person",
+                "object_id": "Person",
+                "location description": "Hwy 29",
+                "coordinates": {
+                    "latitude": 55.5011,
+                    "longitude": -121.6188
+                },
+                "ignition date": "2022-06-12"
             }
         },
         "K60175": {
             "properties": {
                 "fire status": "Out",
                 "fire cause": "Person",
-                "object_id": 30229927,
+                "object_id": "Person",
                 "location description": "Coyle",
                 "coordinates": {
                     "latitude": 50.138,
                     "longitude": -120.8659
                 },
-                "ignition date": {
-                    "complete": "2022-05-11",
-                    "day": 11,
-                    "month": 5,
-                    "year": 2022
-                }
+                "ignition date": "2022-05-11"
             }
         },
         "N60114": {
             "properties": {
-                "fire status": "Under Control",
+                "fire status": "Out",
                 "fire cause": "Person",
-                "object_id": 30229928,
+                "object_id": "Person",
                 "location description": "Rendell Creek",
                 "coordinates": {
                     "latitude": 49.6401,
                     "longitude": -118.753
                 },
-                "ignition date": {
-                    "complete": "2022-04-24",
-                    "day": 24,
-                    "month": 4,
-                    "year": 2022
-                }
+                "ignition date": "2022-04-24"
             }
         },
         "K60119": {
             "properties": {
                 "fire status": "Out",
                 "fire cause": "Person",
-                "object_id": 30229929,
+                "object_id": "Person",
                 "location description": "Blackmine FSR",
                 "coordinates": {
                     "latitude": 49.4073,
                     "longitude": -120.6125
                 },
-                "ignition date": {
-                    "complete": "2022-04-25",
-                    "day": 25,
-                    "month": 4,
-                    "year": 2022
-                }
+                "ignition date": "2022-04-25"
             }
         },
         "C50189": {
             "properties": {
                 "fire status": "Out",
                 "fire cause": "Person",
-                "object_id": 30229930,
+                "object_id": "Person",
                 "location description": "NE Nemaia Lake",
                 "coordinates": {
                     "latitude": 51.4721,
                     "longitude": -123.9528
                 },
-                "ignition date": {
-                    "complete": "2022-05-16",
-                    "day": 16,
-                    "month": 5,
-                    "year": 2022
-                }
+                "ignition date": "2022-05-16"
             }
         },
         "K50177": {
             "properties": {
                 "fire status": "Out",
                 "fire cause": "Person",
-                "object_id": 30229931,
+                "object_id": "Person",
                 "location description": "5 km Carmi FSR",
                 "coordinates": {
                     "latitude": 49.461,
                     "longitude": -119.3808
                 },
-                "ignition date": {
-                    "complete": "2022-05-11",
-                    "day": 11,
-                    "month": 5,
-                    "year": 2022
-                }
+                "ignition date": "2022-05-11"
             }
         },
         "C20179": {
             "properties": {
                 "fire status": "Out",
                 "fire cause": "Person",
-                "object_id": 30229932,
+                "object_id": "Person",
                 "location description": "2km S of Rodeo Rd",
                 "coordinates": {
                     "latitude": 52.0396,
                     "longitude": -121.9044
                 },
-                "ignition date": {
-                    "complete": "2022-05-11",
-                    "day": 11,
-                    "month": 5,
-                    "year": 2022
-                }
+                "ignition date": "2022-05-11"
             }
         },
         "C20270": {
             "properties": {
                 "fire status": "Out",
                 "fire cause": "Person",
-                "object_id": 30229933,
+                "object_id": "Person",
                 "location description": "Williams Lake",
                 "coordinates": {
                     "latitude": 52.2997,
                     "longitude": -122.1999
                 },
-                "ignition date": {
-                    "complete": "2022-06-04",
-                    "day": 4,
-                    "month": 6,
-                    "year": 2022
-                }
+                "ignition date": "2022-06-04"
+            }
+        },
+        "G70293": {
+            "properties": {
+                "fire status": "Out",
+                "fire cause": "Person",
+                "object_id": "Person",
+                "location description": "20 km on Oetata FSR",
+                "coordinates": {
+                    "latitude": 55.4215,
+                    "longitude": -120.4798
+                },
+                "ignition date": "2022-06-11"
             }
         },
         "V30039": {
             "properties": {
                 "fire status": "Out",
                 "fire cause": "Person",
-                "object_id": 30229934,
+                "object_id": "Person",
                 "location description": "South of Rancheree Road",
                 "coordinates": {
                     "latitude": 50.3092,
                     "longitude": -122.7097
                 },
-                "ignition date": {
-                    "complete": "2022-04-11",
-                    "day": 11,
-                    "month": 4,
-                    "year": 2022
-                }
+                "ignition date": "2022-04-11"
             }
         },
         "C20226": {
             "properties": {
                 "fire status": "Out",
                 "fire cause": "Person",
-                "object_id": 30229935,
+                "object_id": "Person",
                 "location description": "White Rd",
                 "coordinates": {
                     "latitude": 52.1202,
                     "longitude": -122.0481
                 },
-                "ignition date": {
-                    "complete": "2022-05-24",
-                    "day": 24,
-                    "month": 5,
-                    "year": 2022
-                }
+                "ignition date": "2022-05-24"
             }
         },
         "V70230": {
             "properties": {
                 "fire status": "Out",
                 "fire cause": "Person",
-                "object_id": 30229936,
+                "object_id": "Person",
                 "location description": "Cameron Lake",
                 "coordinates": {
                     "latitude": 49.2888,
                     "longitude": -124.6266
                 },
-                "ignition date": {
-                    "complete": "2022-05-26",
-                    "day": 26,
-                    "month": 5,
-                    "year": 2022
-                }
+                "ignition date": "2022-05-26"
             }
         },
         "K20136": {
             "properties": {
                 "fire status": "Out",
                 "fire cause": "Person",
-                "object_id": 30229937,
+                "object_id": "Person",
                 "location description": "1.2 km Timber Lake FSR",
                 "coordinates": {
                     "latitude": 50.5676,
                     "longitude": -120.4453
                 },
-                "ignition date": {
-                    "complete": "2022-04-28",
-                    "day": 28,
-                    "month": 4,
-                    "year": 2022
-                }
+                "ignition date": "2022-04-28"
+            }
+        },
+        "G90319": {
+            "properties": {
+                "fire status": "Out",
+                "fire cause": "Lightning",
+                "object_id": "Lightning",
+                "location description": "Kwokulie Lake",
+                "coordinates": {
+                    "latitude": 59.2946,
+                    "longitude": -120.9002
+                },
+                "ignition date": "2022-06-20"
+            }
+        },
+        "G90318": {
+            "properties": {
+                "fire status": "Out",
+                "fire cause": "Lightning",
+                "object_id": "Lightning",
+                "location description": "Kotcho Lake",
+                "coordinates": {
+                    "latitude": 59.1098,
+                    "longitude": -121.1387
+                },
+                "ignition date": "2022-06-20"
             }
         },
         "K50156": {
             "properties": {
                 "fire status": "Out",
                 "fire cause": "Person",
-                "object_id": 30229938,
+                "object_id": "Person",
                 "location description": "Beaverdell Road",
                 "coordinates": {
                     "latitude": 49.4679,
                     "longitude": -119.4955
                 },
-                "ignition date": {
-                    "complete": "2022-05-05",
-                    "day": 5,
-                    "month": 5,
-                    "year": 2022
-                }
+                "ignition date": "2022-05-05"
             }
         },
         "N10157": {
             "properties": {
                 "fire status": "Out",
                 "fire cause": "Person",
-                "object_id": 30229939,
+                "object_id": "Person",
                 "location description": "Baynes Lake",
                 "coordinates": {
                     "latitude": 49.2224,
                     "longitude": -115.214
                 },
-                "ignition date": {
-                    "complete": "2022-05-01",
-                    "day": 1,
-                    "month": 5,
-                    "year": 2022
-                }
+                "ignition date": "2022-05-01"
             }
         },
         "C40221": {
             "properties": {
                 "fire status": "Out",
                 "fire cause": "Person",
-                "object_id": 30229940,
+                "object_id": "Person",
                 "location description": "Clinton Loon Lake FSR and Hwy 97",
                 "coordinates": {
                     "latitude": 51.2343,
                     "longitude": -121.4985
                 },
-                "ignition date": {
-                    "complete": "2022-05-24",
-                    "day": 24,
-                    "month": 5,
-                    "year": 2022
-                }
+                "ignition date": "2022-05-24"
             }
         },
         "K70076": {
             "properties": {
                 "fire status": "Out",
                 "fire cause": "Person",
-                "object_id": 30229941,
+                "object_id": "Person",
                 "location description": "Olin Creek",
                 "coordinates": {
                     "latitude": 50.7345,
                     "longitude": -122.1918
                 },
-                "ignition date": {
-                    "complete": "2022-04-17",
-                    "day": 17,
-                    "month": 4,
-                    "year": 2022
-                }
+                "ignition date": "2022-04-17"
             }
         },
         "C20073": {
             "properties": {
                 "fire status": "Out",
                 "fire cause": "Person",
-                "object_id": 30229942,
+                "object_id": "Person",
                 "location description": "Tlescoxeten Rd",
                 "coordinates": {
                     "latitude": 51.9514,
                     "longitude": -122.5007
                 },
-                "ignition date": {
-                    "complete": "2022-04-17",
-                    "day": 17,
-                    "month": 4,
-                    "year": 2022
-                }
+                "ignition date": "2022-04-17"
             }
         },
         "C40075": {
             "properties": {
                 "fire status": "Out",
                 "fire cause": "Person",
-                "object_id": 30229943,
+                "object_id": "Person",
                 "location description": "Tin Cup Lake",
                 "coordinates": {
                     "latitude": 51.353,
                     "longitude": -121.2091
                 },
-                "ignition date": {
-                    "complete": "2022-04-17",
-                    "day": 17,
-                    "month": 4,
-                    "year": 2022
-                }
+                "ignition date": "2022-04-17"
             }
         },
         "C50080": {
             "properties": {
                 "fire status": "Out",
                 "fire cause": "Person",
-                "object_id": 30229944,
+                "object_id": "Person",
                 "location description": "Redstone Reserve",
                 "coordinates": {
                     "latitude": 52.1351,
                     "longitude": -123.9507
                 },
-                "ignition date": {
-                    "complete": "2022-04-18",
-                    "day": 18,
-                    "month": 4,
-                    "year": 2022
-                }
+                "ignition date": "2022-04-18"
+            }
+        },
+        "K20191": {
+            "properties": {
+                "fire status": "Out",
+                "fire cause": "Person",
+                "object_id": "Person",
+                "location description": "Duplicate of K21001 (2021)",
+                "coordinates": {
+                    "latitude": 51.0278,
+                    "longitude": -120.7622
+                },
+                "ignition date": "2022-05-17"
             }
         },
         "C50190": {
             "properties": {
                 "fire status": "Out",
                 "fire cause": "Person",
-                "object_id": 30229945,
+                "object_id": "Person",
                 "location description": "Tatlayoko Lake",
                 "coordinates": {
                     "latitude": 51.6281,
                     "longitude": -124.392
                 },
-                "ignition date": {
-                    "complete": "2022-05-17",
-                    "day": 17,
-                    "month": 5,
-                    "year": 2022
-                }
+                "ignition date": "2022-05-17"
+            }
+        },
+        "K60292": {
+            "properties": {
+                "fire status": "Out",
+                "fire cause": "Unknown",
+                "object_id": "Unknown",
+                "location description": "North Bench",
+                "coordinates": {
+                    "latitude": 50.137,
+                    "longitude": -120.7777
+                },
+                "ignition date": "2022-06-11"
             }
         },
         "N10009": {
             "properties": {
                 "fire status": "Out",
                 "fire cause": "Person",
-                "object_id": 30229946,
+                "object_id": "Person",
                 "location description": "Fort Steele area",
                 "coordinates": {
                     "latitude": 49.6043,
                     "longitude": -115.6246
                 },
-                "ignition date": {
-                    "complete": "2022-04-05",
-                    "day": 5,
-                    "month": 4,
-                    "year": 2022
-                }
+                "ignition date": "2022-04-05"
             }
         },
         "G10224": {
             "properties": {
                 "fire status": "Out",
                 "fire cause": "Person",
-                "object_id": 30229947,
+                "object_id": "Person",
                 "location description": "HWY 16 E, Tabor Mtn Ski Resort",
                 "coordinates": {
                     "latitude": 53.9145,
                     "longitude": -122.352
                 },
-                "ignition date": {
-                    "complete": "2022-05-24",
-                    "day": 24,
-                    "month": 5,
-                    "year": 2022
-                }
+                "ignition date": "2022-05-24"
             }
         },
         "G60264": {
             "properties": {
                 "fire status": "Out",
                 "fire cause": "Person",
-                "object_id": 30229948,
+                "object_id": "Person",
                 "location description": "Morfee Mountain",
                 "coordinates": {
                     "latitude": 55.3763,
                     "longitude": -123.0883
                 },
-                "ignition date": {
-                    "complete": "2022-06-03",
-                    "day": 3,
-                    "month": 6,
-                    "year": 2022
-                }
+                "ignition date": "2022-06-03"
+            }
+        },
+        "G70298": {
+            "properties": {
+                "fire status": "Out",
+                "fire cause": "Person",
+                "object_id": "Person",
+                "location description": "Bear Mountain Wind Park Rd",
+                "coordinates": {
+                    "latitude": 55.6979,
+                    "longitude": -120.316
+                },
+                "ignition date": "2022-06-12"
             }
         },
         "C50014": {
             "properties": {
                 "fire status": "Out",
                 "fire cause": "Person",
-                "object_id": 30229949,
+                "object_id": "Person",
                 "location description": "Dripping Water Rd",
                 "coordinates": {
                     "latitude": 52.0402,
                     "longitude": -123.1765
                 },
-                "ignition date": {
-                    "complete": "2022-04-07",
-                    "day": 7,
-                    "month": 4,
-                    "year": 2022
-                }
+                "ignition date": "2022-04-07"
             }
         },
         "K40054": {
             "properties": {
                 "fire status": "Out",
                 "fire cause": "Person",
-                "object_id": 30229950,
+                "object_id": "Person",
                 "location description": "Turtle Valley",
                 "coordinates": {
                     "latitude": 50.8164,
                     "longitude": -119.5427
                 },
-                "ignition date": {
-                    "complete": "2022-04-14",
-                    "day": 14,
-                    "month": 4,
-                    "year": 2022
-                }
+                "ignition date": "2022-04-14"
             }
         },
         "K40148": {
             "properties": {
                 "fire status": "Out",
                 "fire cause": "Unknown",
-                "object_id": 30229951,
+                "object_id": "Unknown",
                 "location description": "2km Talbot FSR",
                 "coordinates": {
                     "latitude": 50.4338,
                     "longitude": -119.8187
                 },
-                "ignition date": {
-                    "complete": "2022-05-02",
-                    "day": 2,
-                    "month": 5,
-                    "year": 2022
-                }
+                "ignition date": "2022-05-02"
             }
         },
         "K40149": {
             "properties": {
                 "fire status": "Out",
                 "fire cause": "Unknown",
-                "object_id": 30229952,
+                "object_id": "Unknown",
                 "location description": "4km Station FSR",
                 "coordinates": {
                     "latitude": 50.4889,
                     "longitude": -119.7333
                 },
-                "ignition date": {
-                    "complete": "2022-05-02",
-                    "day": 2,
-                    "month": 5,
-                    "year": 2022
-                }
+                "ignition date": "2022-05-02"
+            }
+        },
+        "R90334": {
+            "properties": {
+                "fire status": "Out",
+                "fire cause": "Lightning",
+                "object_id": "Lightning",
+                "location description": "Hyland Post",
+                "coordinates": {
+                    "latitude": 57.7039,
+                    "longitude": -127.9811
+                },
+                "ignition date": "2022-06-24"
             }
         },
         "G40026": {
             "properties": {
                 "fire status": "Out",
                 "fire cause": "Person",
-                "object_id": 30229953,
+                "object_id": "Person",
                 "location description": "Fort Fraser",
                 "coordinates": {
                     "latitude": 54.0535,
                     "longitude": -124.5302
                 },
-                "ignition date": {
-                    "complete": "2022-04-09",
-                    "day": 9,
-                    "month": 4,
-                    "year": 2022
-                }
+                "ignition date": "2022-04-09"
             }
         },
         "N20062": {
             "properties": {
                 "fire status": "Out",
                 "fire cause": "Person",
-                "object_id": 30229954,
+                "object_id": "Person",
                 "location description": "Whiteswan Lake",
                 "coordinates": {
                     "latitude": 50.1201,
                     "longitude": -115.5448
                 },
-                "ignition date": {
-                    "complete": "2022-04-15",
-                    "day": 15,
-                    "month": 4,
-                    "year": 2022
-                }
+                "ignition date": "2022-04-15"
             }
         },
         "R10233": {
             "properties": {
                 "fire status": "Out",
                 "fire cause": "Person",
-                "object_id": 30229955,
+                "object_id": "Person",
                 "location description": "South Uncha Lake",
                 "coordinates": {
                     "latitude": 53.9065,
                     "longitude": -125.6293
                 },
-                "ignition date": {
-                    "complete": "2022-05-26",
-                    "day": 26,
-                    "month": 5,
-                    "year": 2022
-                }
+                "ignition date": "2022-05-26"
             }
         },
         "G80257": {
             "properties": {
                 "fire status": "Out",
                 "fire cause": "Person",
-                "object_id": 30229956,
+                "object_id": "Person",
                 "location description": "21 km Upper Halfway Road",
                 "coordinates": {
                     "latitude": 56.5214,
                     "longitude": -121.7823
                 },
-                "ignition date": {
-                    "complete": "2022-06-02",
-                    "day": 2,
-                    "month": 6,
-                    "year": 2022
-                }
+                "ignition date": "2022-06-02"
             }
         },
         "K40019": {
             "properties": {
                 "fire status": "Out",
                 "fire cause": "Person",
-                "object_id": 30229957,
+                "object_id": "Person",
                 "location description": "George Creek FSR",
                 "coordinates": {
                     "latitude": 50.5174,
                     "longitude": -119.8777
                 },
-                "ignition date": {
-                    "complete": "2022-04-08",
-                    "day": 8,
-                    "month": 4,
-                    "year": 2022
-                }
+                "ignition date": "2022-04-08"
             }
         },
         "K20020": {
             "properties": {
                 "fire status": "Out",
                 "fire cause": "Person",
-                "object_id": 30229958,
+                "object_id": "Person",
                 "location description": "Lower Duck Range Road",
                 "coordinates": {
                     "latitude": 50.6211,
                     "longitude": -119.8969
                 },
-                "ignition date": {
-                    "complete": "2022-04-08",
-                    "day": 8,
-                    "month": 4,
-                    "year": 2022
-                }
+                "ignition date": "2022-04-08"
+            }
+        },
+        "VA0353": {
+            "properties": {
+                "fire status": "Out",
+                "fire cause": "Lightning",
+                "object_id": "Lightning",
+                "location description": "Hump Lake",
+                "coordinates": {
+                    "latitude": 52.458,
+                    "longitude": -126.2085
+                },
+                "ignition date": "2022-06-28"
             }
         },
         "V50244": {
             "properties": {
                 "fire status": "Out",
                 "fire cause": "Person",
-                "object_id": 30229959,
+                "object_id": "Person",
                 "location description": "Clack Creek",
                 "coordinates": {
                     "latitude": 49.4613,
                     "longitude": -123.6241
                 },
-                "ignition date": {
-                    "complete": "2022-05-29",
-                    "day": 29,
-                    "month": 5,
-                    "year": 2022
-                }
+                "ignition date": "2022-05-29"
+            }
+        },
+        "G30290": {
+            "properties": {
+                "fire status": "Out",
+                "fire cause": "Person",
+                "object_id": "Person",
+                "location description": "Robson Park Lucern",
+                "coordinates": {
+                    "latitude": 52.852,
+                    "longitude": -118.6042
+                },
+                "ignition date": "2022-06-10"
+            }
+        },
+        "G90320": {
+            "properties": {
+                "fire status": "Out",
+                "fire cause": "Lightning",
+                "object_id": "Lightning",
+                "location description": "4 miles east of Yeka Lake",
+                "coordinates": {
+                    "latitude": 59.5588,
+                    "longitude": -120.8862
+                },
+                "ignition date": "2022-06-20"
             }
         },
         "K60195": {
             "properties": {
                 "fire status": "Out",
                 "fire cause": "Person",
-                "object_id": 30229960,
+                "object_id": "Person",
                 "location description": "Corbett Lake",
                 "coordinates": {
                     "latitude": 50.012,
                     "longitude": -120.6148
                 },
-                "ignition date": {
-                    "complete": "2022-05-18",
-                    "day": 18,
-                    "month": 5,
-                    "year": 2022
-                }
+                "ignition date": "2022-05-18"
             }
         },
         "C10011": {
             "properties": {
                 "fire status": "Out",
                 "fire cause": "Person",
-                "object_id": 30229961,
+                "object_id": "Person",
                 "location description": "Dragon Lake",
                 "coordinates": {
                     "latitude": 52.9358,
                     "longitude": -122.4416
                 },
-                "ignition date": {
-                    "complete": "2022-04-06",
-                    "day": 6,
-                    "month": 4,
-                    "year": 2022
-                }
+                "ignition date": "2022-04-06"
             }
         },
         "K20016": {
             "properties": {
                 "fire status": "Out",
                 "fire cause": "Person",
-                "object_id": 30229962,
+                "object_id": "Person",
                 "location description": "Louis Creek 6km",
                 "coordinates": {
                     "latitude": 50.7624,
                     "longitude": -120.0788
                 },
-                "ignition date": {
-                    "complete": "2022-04-08",
-                    "day": 8,
-                    "month": 4,
-                    "year": 2022
-                }
+                "ignition date": "2022-04-08"
             }
         },
         "K20017": {
             "properties": {
                 "fire status": "Out",
                 "fire cause": "Person",
-                "object_id": 30229963,
+                "object_id": "Person",
                 "location description": "5.5km Louis Lake FSR",
                 "coordinates": {
                     "latitude": 50.7644,
                     "longitude": -120.0777
                 },
-                "ignition date": {
-                    "complete": "2022-04-08",
-                    "day": 8,
-                    "month": 4,
-                    "year": 2022
-                }
+                "ignition date": "2022-04-08"
             }
         },
         "K20018": {
             "properties": {
                 "fire status": "Out",
                 "fire cause": "Person",
-                "object_id": 30229964,
+                "object_id": "Person",
                 "location description": "Louis Creek FSR",
                 "coordinates": {
                     "latitude": 50.7667,
                     "longitude": -120.0765
                 },
-                "ignition date": {
-                    "complete": "2022-04-08",
-                    "day": 8,
-                    "month": 4,
-                    "year": 2022
-                }
+                "ignition date": "2022-04-08"
             }
         },
         "V10035": {
             "properties": {
                 "fire status": "Out",
                 "fire cause": "Person",
-                "object_id": 30229965,
+                "object_id": "Person",
                 "location description": "Fraser Heritage Park",
                 "coordinates": {
                     "latitude": 49.1441,
                     "longitude": -122.2824
                 },
-                "ignition date": {
-                    "complete": "2022-04-10",
-                    "day": 10,
-                    "month": 4,
-                    "year": 2022
-                }
+                "ignition date": "2022-04-10"
             }
         },
         "N10036": {
             "properties": {
                 "fire status": "Out",
                 "fire cause": "Person",
-                "object_id": 30229966,
+                "object_id": "Person",
                 "location description": "Gallaway FSR",
                 "coordinates": {
                     "latitude": 49.4022,
                     "longitude": -115.2387
                 },
-                "ignition date": {
-                    "complete": "2022-04-09",
-                    "day": 9,
-                    "month": 4,
-                    "year": 2022
-                }
+                "ignition date": "2022-04-09"
             }
         },
         "K20051": {
             "properties": {
                 "fire status": "Out",
                 "fire cause": "Person",
-                "object_id": 30229967,
+                "object_id": "Person",
                 "location description": "Darfield",
                 "coordinates": {
                     "latitude": 51.3109,
                     "longitude": -120.1638
                 },
-                "ignition date": {
-                    "complete": "2022-04-13",
-                    "day": 13,
-                    "month": 4,
-                    "year": 2022
-                }
+                "ignition date": "2022-04-13"
             }
         },
         "C50057": {
             "properties": {
                 "fire status": "Out",
                 "fire cause": "Person",
-                "object_id": 30229968,
+                "object_id": "Person",
                 "location description": "Anaham Flats",
                 "coordinates": {
                     "latitude": 52.0077,
                     "longitude": -123.1562
                 },
-                "ignition date": {
-                    "complete": "2022-04-15",
-                    "day": 15,
-                    "month": 4,
-                    "year": 2022
-                }
+                "ignition date": "2022-04-15"
             }
         },
         "R40061": {
             "properties": {
                 "fire status": "Out",
                 "fire cause": "Person",
-                "object_id": 30229969,
+                "object_id": "Person",
                 "location description": "Gitwangak, Back Road",
                 "coordinates": {
                     "latitude": 55.1007,
                     "longitude": -128.0593
                 },
-                "ignition date": {
-                    "complete": "2022-04-15",
-                    "day": 15,
-                    "month": 4,
-                    "year": 2022
-                }
+                "ignition date": "2022-04-15"
             }
         },
         "G30090": {
             "properties": {
                 "fire status": "Out",
                 "fire cause": "Person",
-                "object_id": 30229970,
+                "object_id": "Person",
                 "location description": "Crescent Spur on Loose Road",
                 "coordinates": {
                     "latitude": 53.5434,
                     "longitude": -120.7078
                 },
-                "ignition date": {
-                    "complete": "2022-04-22",
-                    "day": 22,
-                    "month": 4,
-                    "year": 2022
-                }
+                "ignition date": "2022-04-22"
             }
         },
         "R40172": {
             "properties": {
                 "fire status": "Out",
                 "fire cause": "Person",
-                "object_id": 30229971,
+                "object_id": "Person",
                 "location description": "Kispiox Rodeo Grounds",
                 "coordinates": {
                     "latitude": 55.4396,
                     "longitude": -127.7211
                 },
-                "ignition date": {
-                    "complete": "2022-05-10",
-                    "day": 10,
-                    "month": 5,
-                    "year": 2022
-                }
+                "ignition date": "2022-05-10"
+            }
+        },
+        "G90317": {
+            "properties": {
+                "fire status": "Out",
+                "fire cause": "Lightning",
+                "object_id": "Lightning",
+                "location description": "Kwokuli Lake",
+                "coordinates": {
+                    "latitude": 59.2686,
+                    "longitude": -120.9268
+                },
+                "ignition date": "2022-06-20"
             }
         },
         "C50024": {
             "properties": {
                 "fire status": "Out",
                 "fire cause": "Person",
-                "object_id": 30229972,
+                "object_id": "Person",
                 "location description": "Taseko Lake Rd",
                 "coordinates": {
                     "latitude": 51.9234,
                     "longitude": -123.1089
                 },
-                "ignition date": {
-                    "complete": "2022-04-09",
-                    "day": 9,
-                    "month": 4,
-                    "year": 2022
-                }
+                "ignition date": "2022-04-09"
             }
         },
         "C50087": {
             "properties": {
                 "fire status": "Out",
                 "fire cause": "Person",
-                "object_id": 30229973,
+                "object_id": "Person",
                 "location description": "Fishtrap Rd",
                 "coordinates": {
                     "latitude": 51.9897,
                     "longitude": -123.1471
                 },
-                "ignition date": {
-                    "complete": "2022-04-21",
-                    "day": 21,
-                    "month": 4,
-                    "year": 2022
-                }
+                "ignition date": "2022-04-21"
             }
         },
         "K20123": {
             "properties": {
                 "fire status": "Out",
                 "fire cause": "Person",
-                "object_id": 30229974,
+                "object_id": "Person",
                 "location description": "McGillivray Creek",
                 "coordinates": {
                     "latitude": 50.8705,
                     "longitude": -119.9654
                 },
-                "ignition date": {
-                    "complete": "2022-04-26",
-                    "day": 26,
-                    "month": 4,
-                    "year": 2022
-                }
+                "ignition date": "2022-04-26"
             }
         },
         "C50143": {
             "properties": {
                 "fire status": "Out",
                 "fire cause": "Person",
-                "object_id": 30229975,
+                "object_id": "Person",
                 "location description": "Anahim Lake Airport",
                 "coordinates": {
                     "latitude": 52.4436,
                     "longitude": -125.2944
                 },
-                "ignition date": {
-                    "complete": "2022-05-02",
-                    "day": 2,
-                    "month": 5,
-                    "year": 2022
-                }
+                "ignition date": "2022-05-02"
             }
         },
         "K20147": {
             "properties": {
                 "fire status": "Out",
                 "fire cause": "Unknown",
-                "object_id": 30229976,
+                "object_id": "Unknown",
                 "location description": "3km on McDougall FSR",
                 "coordinates": {
                     "latitude": 51.607,
                     "longitude": -119.9763
                 },
-                "ignition date": {
-                    "complete": "2022-05-01",
-                    "day": 1,
-                    "month": 5,
-                    "year": 2022
-                }
+                "ignition date": "2022-05-01"
             }
         },
         "R40063": {
             "properties": {
                 "fire status": "Out",
                 "fire cause": "Person",
-                "object_id": 30229977,
+                "object_id": "Person",
                 "location description": "Kitwanga W Rd",
                 "coordinates": {
                     "latitude": 55.1026,
                     "longitude": -128.0509
                 },
-                "ignition date": {
-                    "complete": "2022-04-16",
-                    "day": 16,
-                    "month": 4,
-                    "year": 2022
-                }
+                "ignition date": "2022-04-16"
             }
         },
         "C50068": {
             "properties": {
                 "fire status": "Out",
                 "fire cause": "Person",
-                "object_id": 30229978,
+                "object_id": "Person",
                 "location description": "Alexis Lake Rd",
                 "coordinates": {
                     "latitude": 52.105,
                     "longitude": -123.4046
                 },
-                "ignition date": {
-                    "complete": "2022-04-17",
-                    "day": 17,
-                    "month": 4,
-                    "year": 2022
-                }
+                "ignition date": "2022-04-17"
             }
         },
         "G40138": {
             "properties": {
                 "fire status": "Out",
                 "fire cause": "Person",
-                "object_id": 30229979,
+                "object_id": "Person",
                 "location description": "Stoney Creek",
                 "coordinates": {
                     "latitude": 53.9569,
                     "longitude": -124.1028
                 },
-                "ignition date": {
-                    "complete": "2022-04-30",
-                    "day": 30,
-                    "month": 4,
-                    "year": 2022
-                }
+                "ignition date": "2022-04-30"
             }
         },
         "K20140": {
             "properties": {
                 "fire status": "Out",
                 "fire cause": "Person",
-                "object_id": 30229980,
+                "object_id": "Person",
                 "location description": "Smith Camp Branch 1",
                 "coordinates": {
                     "latitude": 50.7893,
                     "longitude": -120.8883
                 },
-                "ignition date": {
-                    "complete": "2022-04-29",
-                    "day": 29,
-                    "month": 4,
-                    "year": 2022
-                }
+                "ignition date": "2022-04-29"
             }
         },
         "K20139": {
             "properties": {
                 "fire status": "Out",
                 "fire cause": "Person",
-                "object_id": 30229981,
+                "object_id": "Person",
                 "location description": "George Creek",
                 "coordinates": {
                     "latitude": 50.5565,
                     "longitude": -119.9008
                 },
-                "ignition date": {
-                    "complete": "2022-04-29",
-                    "day": 29,
-                    "month": 4,
-                    "year": 2022
-                }
+                "ignition date": "2022-04-29"
             }
         },
         "K20091": {
             "properties": {
                 "fire status": "Out",
                 "fire cause": "Person",
-                "object_id": 30229982,
+                "object_id": "Person",
                 "location description": "Goose Lake FSR",
                 "coordinates": {
                     "latitude": 50.5562,
                     "longitude": -120.425
                 },
-                "ignition date": {
-                    "complete": "2022-04-22",
-                    "day": 22,
-                    "month": 4,
-                    "year": 2022
-                }
+                "ignition date": "2022-04-22"
             }
         },
         "K20125": {
             "properties": {
                 "fire status": "Out",
                 "fire cause": "Person",
-                "object_id": 30229983,
+                "object_id": "Person",
                 "location description": "16km George Creek FSR",
                 "coordinates": {
                     "latitude": 50.5352,
                     "longitude": -120.0012
                 },
-                "ignition date": {
-                    "complete": "2022-04-26",
-                    "day": 26,
-                    "month": 4,
-                    "year": 2022
-                }
+                "ignition date": "2022-04-26"
             }
         },
         "N10153": {
             "properties": {
                 "fire status": "Out",
                 "fire cause": "Person",
-                "object_id": 30229984,
+                "object_id": "Person",
                 "location description": "Wycliff Cherry Creek Road",
                 "coordinates": {
                     "latitude": 49.6344,
                     "longitude": -115.8648
                 },
-                "ignition date": {
-                    "complete": "2022-05-04",
-                    "day": 4,
-                    "month": 5,
-                    "year": 2022
-                }
+                "ignition date": "2022-05-04"
             }
         },
         "G30162": {
             "properties": {
                 "fire status": "Out",
                 "fire cause": "Person",
-                "object_id": 30229985,
+                "object_id": "Person",
                 "location description": "Swift Current Creek",
                 "coordinates": {
                     "latitude": 53.0251,
                     "longitude": -119.2642
                 },
-                "ignition date": {
-                    "complete": "2022-05-07",
-                    "day": 7,
-                    "month": 5,
-                    "year": 2022
-                }
+                "ignition date": "2022-05-07"
             }
         },
         "R50258": {
             "properties": {
                 "fire status": "Out",
                 "fire cause": "Person",
-                "object_id": 30229986,
+                "object_id": "Person",
                 "location description": "Kitimat",
                 "coordinates": {
                     "latitude": 53.9668,
                     "longitude": -128.6319
                 },
-                "ignition date": {
-                    "complete": "2022-06-02",
-                    "day": 2,
-                    "month": 6,
-                    "year": 2022
-                }
+                "ignition date": "2022-06-02"
             }
         },
         "G40259": {
             "properties": {
                 "fire status": "Out",
                 "fire cause": "Person",
-                "object_id": 30229987,
+                "object_id": "Person",
                 "location description": "Endako River",
                 "coordinates": {
                     "latitude": 54.0686,
                     "longitude": -124.9619
                 },
-                "ignition date": {
-                    "complete": "2022-06-02",
-                    "day": 2,
-                    "month": 6,
-                    "year": 2022
-                }
+                "ignition date": "2022-06-02"
+            }
+        },
+        "K70314": {
+            "properties": {
+                "fire status": "Out",
+                "fire cause": "Person",
+                "object_id": "Person",
+                "location description": "West side of Thompson - 16km from Lytton",
+                "coordinates": {
+                    "latitude": 50.265,
+                    "longitude": -121.4073
+                },
+                "ignition date": "2022-06-18"
             }
         },
         "C50081": {
             "properties": {
                 "fire status": "Out",
                 "fire cause": "Person",
-                "object_id": 30229988,
+                "object_id": "Person",
                 "location description": "Anahim Meadow",
                 "coordinates": {
                     "latitude": 52.114,
                     "longitude": -123.2359
                 },
-                "ignition date": {
-                    "complete": "2022-04-18",
-                    "day": 18,
-                    "month": 4,
-                    "year": 2022
-                }
+                "ignition date": "2022-04-18"
             }
         },
         "K20093": {
             "properties": {
                 "fire status": "Out",
                 "fire cause": "Person",
-                "object_id": 30229989,
+                "object_id": "Person",
                 "location description": "Timber Lake FSR",
                 "coordinates": {
                     "latitude": 50.5864,
                     "longitude": -120.503
                 },
-                "ignition date": {
-                    "complete": "2022-04-22",
-                    "day": 22,
-                    "month": 4,
-                    "year": 2022
-                }
+                "ignition date": "2022-04-22"
             }
         },
-        "R30194": {
+        "G90313": {
             "properties": {
-                "fire status": "Out",
+                "fire status": "Being Held",
                 "fire cause": "Unknown",
-                "object_id": 30229990,
-                "location description": "Tatlow Rd",
+                "object_id": "Unknown",
+                "location description": "Dall Lake",
                 "coordinates": {
-                    "latitude": 54.7724,
-                    "longitude": -127.1397
+                    "latitude": 58.5758,
+                    "longitude": -127.5882
                 },
-                "ignition date": {
-                    "complete": "2022-05-17",
-                    "day": 17,
-                    "month": 5,
-                    "year": 2022
-                }
+                "ignition date": "2022-06-18"
             }
         },
         "K20015": {
             "properties": {
                 "fire status": "Out",
                 "fire cause": "Person",
-                "object_id": 30229991,
+                "object_id": "Person",
                 "location description": "4 km Louis Lake FSR",
                 "coordinates": {
                     "latitude": 50.7602,
                     "longitude": -120.0772
                 },
-                "ignition date": {
-                    "complete": "2022-04-06",
-                    "day": 6,
-                    "month": 4,
-                    "year": 2022
-                }
+                "ignition date": "2022-04-06"
             }
         },
         "C50027": {
             "properties": {
                 "fire status": "Out",
                 "fire cause": "Person",
-                "object_id": 30229992,
+                "object_id": "Person",
                 "location description": "Lee's Corner",
                 "coordinates": {
                     "latitude": 51.9415,
                     "longitude": -123.0981
                 },
-                "ignition date": {
-                    "complete": "2022-04-09",
-                    "day": 9,
-                    "month": 4,
-                    "year": 2022
-                }
+                "ignition date": "2022-04-09"
             }
         },
         "K20164": {
             "properties": {
                 "fire status": "Out",
                 "fire cause": "Unknown",
-                "object_id": 30229993,
+                "object_id": "Unknown",
                 "location description": "Goose Lake FSR",
                 "coordinates": {
                     "latitude": 50.5535,
                     "longitude": -120.4196
                 },
-                "ignition date": {
-                    "complete": "2022-05-08",
-                    "day": 8,
-                    "month": 5,
-                    "year": 2022
-                }
+                "ignition date": "2022-05-08"
             }
         },
         "K20184": {
             "properties": {
                 "fire status": "Out",
                 "fire cause": "Person",
-                "object_id": 30229994,
+                "object_id": "Person",
                 "location description": "Ivy Creek",
                 "coordinates": {
                     "latitude": 51.6905,
                     "longitude": -119.4173
                 },
-                "ignition date": {
-                    "complete": "2022-05-13",
-                    "day": 13,
-                    "month": 5,
-                    "year": 2022
-                }
+                "ignition date": "2022-05-13"
             }
         },
         "C20232": {
             "properties": {
                 "fire status": "Out",
                 "fire cause": "Person",
-                "object_id": 30229995,
+                "object_id": "Person",
                 "location description": "White Rd",
                 "coordinates": {
                     "latitude": 52.1193,
                     "longitude": -122.0504
                 },
-                "ignition date": {
-                    "complete": "2022-05-26",
-                    "day": 26,
-                    "month": 5,
-                    "year": 2022
-                }
+                "ignition date": "2022-05-26"
             }
         },
         "G80005": {
             "properties": {
                 "fire status": "Out",
                 "fire cause": "Person",
-                "object_id": 30229996,
+                "object_id": "Person",
                 "location description": "N side Doig Road S Osborne river",
                 "coordinates": {
                     "latitude": 56.5891,
                     "longitude": -120.4236
                 },
-                "ignition date": {
-                    "complete": "2022-04-02",
-                    "day": 2,
-                    "month": 4,
-                    "year": 2022
-                }
+                "ignition date": "2022-04-02"
             }
         },
         "K60004": {
             "properties": {
                 "fire status": "Out",
                 "fire cause": "Person",
-                "object_id": 30229997,
+                "object_id": "Person",
                 "location description": "Mamit Lake Branch Road",
                 "coordinates": {
                     "latitude": 50.1706,
                     "longitude": -120.8563
                 },
-                "ignition date": {
-                    "complete": "2022-04-02",
-                    "day": 2,
-                    "month": 4,
-                    "year": 2022
-                }
+                "ignition date": "2022-04-02"
             }
         },
         "C10008": {
             "properties": {
                 "fire status": "Out",
                 "fire cause": "Person",
-                "object_id": 30229998,
+                "object_id": "Person",
                 "location description": "Trudeau Rd",
                 "coordinates": {
                     "latitude": 52.6038,
                     "longitude": -122.4659
                 },
-                "ignition date": {
-                    "complete": "2022-04-02",
-                    "day": 2,
-                    "month": 4,
-                    "year": 2022
-                }
+                "ignition date": "2022-04-02"
             }
         },
         "C50174": {
             "properties": {
                 "fire status": "Out",
                 "fire cause": "Person",
-                "object_id": 30229999,
+                "object_id": "Person",
                 "location description": "8km down Puntzi Lake Rd",
                 "coordinates": {
                     "latitude": 52.1906,
                     "longitude": -124.0835
                 },
-                "ignition date": {
-                    "complete": "2022-05-10",
-                    "day": 10,
-                    "month": 5,
-                    "year": 2022
-                }
+                "ignition date": "2022-05-10"
             }
         },
         "K20192": {
             "properties": {
                 "fire status": "Out",
                 "fire cause": "Person",
-                "object_id": 30230000,
+                "object_id": "Person",
                 "location description": "Juniper Knoll",
                 "coordinates": {
                     "latitude": 50.7885,
                     "longitude": -121.0739
                 },
-                "ignition date": {
-                    "complete": "2022-05-17",
-                    "day": 17,
-                    "month": 5,
-                    "year": 2022
-                }
+                "ignition date": "2022-05-17"
             }
         },
         "R90219": {
             "properties": {
                 "fire status": "Out",
                 "fire cause": "Unknown",
-                "object_id": 30230001,
+                "object_id": "Unknown",
                 "location description": "W of Moose Lake",
                 "coordinates": {
                     "latitude": 59.6042,
                     "longitude": -133.5788
                 },
-                "ignition date": {
-                    "complete": "2022-05-22",
-                    "day": 22,
-                    "month": 5,
-                    "year": 2022
-                }
+                "ignition date": "2022-05-22"
             }
         },
         "G90274": {
             "properties": {
-                "fire status": "Out of Control",
+                "fire status": "Out",
                 "fire cause": "Lightning",
-                "object_id": 30230002,
+                "object_id": "Lightning",
                 "location description": "Vinatya Creek",
                 "coordinates": {
                     "latitude": 59.9817,
                     "longitude": -120.0221
                 },
-                "ignition date": {
-                    "complete": "2022-06-05",
-                    "day": 5,
-                    "month": 6,
-                    "year": 2022
-                }
+                "ignition date": "2022-05-31"
+            }
+        },
+        "R90340": {
+            "properties": {
+                "fire status": "Out",
+                "fire cause": "Lightning",
+                "object_id": "Lightning",
+                "location description": "N side of Level Mtn",
+                "coordinates": {
+                    "latitude": 58.9256,
+                    "longitude": -131.5149
+                },
+                "ignition date": "2022-06-25"
+            }
+        },
+        "R40350": {
+            "properties": {
+                "fire status": "Out",
+                "fire cause": "Lightning",
+                "object_id": "Lightning",
+                "location description": "Mount Glen",
+                "coordinates": {
+                    "latitude": 55.3137,
+                    "longitude": -127.6275
+                },
+                "ignition date": "2022-06-27"
+            }
+        },
+        "V10349": {
+            "properties": {
+                "fire status": "Out",
+                "fire cause": "Lightning",
+                "object_id": "Lightning",
+                "location description": "Morris Creek",
+                "coordinates": {
+                    "latitude": 49.302,
+                    "longitude": -121.9063
+                },
+                "ignition date": "2022-06-27"
             }
         },
         "R10052": {
             "properties": {
                 "fire status": "Out",
                 "fire cause": "Person",
-                "object_id": 30230003,
+                "object_id": "Person",
                 "location description": "Defoe Rd",
                 "coordinates": {
                     "latitude": 54.3314,
                     "longitude": -125.8873
                 },
-                "ignition date": {
-                    "complete": "2022-04-13",
-                    "day": 13,
-                    "month": 4,
-                    "year": 2022
-                }
+                "ignition date": "2022-04-13"
             }
         },
         "G80210": {
             "properties": {
                 "fire status": "Out",
                 "fire cause": "Person",
-                "object_id": 30230004,
+                "object_id": "Person",
                 "location description": "Km 14.5 on Jedney Rd",
                 "coordinates": {
                     "latitude": 57.0858,
-                    "longitude": -122.0785
+                    "longitude": -122.0787
                 },
-                "ignition date": {
-                    "complete": "2022-05-22",
-                    "day": 22,
-                    "month": 5,
-                    "year": 2022
-                }
+                "ignition date": "2022-05-22"
             }
         },
         "R90255": {
             "properties": {
                 "fire status": "Out",
                 "fire cause": "Person",
-                "object_id": 30230005,
+                "object_id": "Person",
                 "location description": "Atlin",
                 "coordinates": {
-                    "latitude": 59.5816,
-                    "longitude": -133.6448
+                    "latitude": 59.5827,
+                    "longitude": -133.6096
                 },
-                "ignition date": {
-                    "complete": "2022-06-01",
-                    "day": 1,
-                    "month": 6,
-                    "year": 2022
-                }
+                "ignition date": "2022-06-01"
+            }
+        },
+        "G30304": {
+            "properties": {
+                "fire status": "Out",
+                "fire cause": "Person",
+                "object_id": "Person",
+                "location description": "Kinbasket Lake 4 KM",
+                "coordinates": {
+                    "latitude": 52.7734,
+                    "longitude": -119.1588
+                },
+                "ignition date": "2022-06-14"
             }
         },
         "K60048": {
             "properties": {
                 "fire status": "Out",
                 "fire cause": "Person",
-                "object_id": 30230006,
+                "object_id": "Person",
                 "location description": "28 km Private Fsr",
                 "coordinates": {
                     "latitude": 50.3236,
                     "longitude": -119.9731
                 },
-                "ignition date": {
-                    "complete": "2022-04-10",
-                    "day": 10,
-                    "month": 4,
-                    "year": 2022
-                }
+                "ignition date": "2022-04-10"
             }
         },
         "K60049": {
             "properties": {
                 "fire status": "Out",
                 "fire cause": "Person",
-                "object_id": 30230007,
+                "object_id": "Person",
                 "location description": "Salmon River 2",
                 "coordinates": {
                     "latitude": 50.3171,
                     "longitude": -119.9704
                 },
-                "ignition date": {
-                    "complete": "2022-04-10",
-                    "day": 10,
-                    "month": 4,
-                    "year": 2022
-                }
+                "ignition date": "2022-04-10"
             }
         },
         "C50050": {
             "properties": {
                 "fire status": "Out",
                 "fire cause": "Person",
-                "object_id": 30230008,
+                "object_id": "Person",
                 "location description": "Chilko Newton Rd",
                 "coordinates": {
                     "latitude": 52.0992,
                     "longitude": -123.5258
                 },
-                "ignition date": {
-                    "complete": "2022-04-13",
-                    "day": 13,
-                    "month": 4,
-                    "year": 2022
-                }
+                "ignition date": "2022-04-13"
             }
         },
         "K20115": {
             "properties": {
                 "fire status": "Out",
                 "fire cause": "Person",
-                "object_id": 30230009,
+                "object_id": "Person",
                 "location description": "23.5K Deadman Vidette",
                 "coordinates": {
                     "latitude": 50.9653,
                     "longitude": -120.9506
                 },
-                "ignition date": {
-                    "complete": "2022-04-25",
-                    "day": 25,
-                    "month": 4,
-                    "year": 2022
-                }
+                "ignition date": "2022-04-25"
             }
         },
         "C40117": {
             "properties": {
                 "fire status": "Out",
                 "fire cause": "Person",
-                "object_id": 30230010,
+                "object_id": "Person",
                 "location description": "Eagan Lake Crescent",
                 "coordinates": {
                     "latitude": 51.3799,
                     "longitude": -120.733
                 },
-                "ignition date": {
-                    "complete": "2022-04-25",
-                    "day": 25,
-                    "month": 4,
-                    "year": 2022
-                }
+                "ignition date": "2022-04-25"
             }
         },
         "K40042": {
             "properties": {
                 "fire status": "Out",
                 "fire cause": "Person",
-                "object_id": 30230011,
+                "object_id": "Person",
                 "location description": "25km Douglas Lake Road",
                 "coordinates": {
                     "latitude": 50.3349,
                     "longitude": -119.97
                 },
-                "ignition date": {
-                    "complete": "2022-04-10",
-                    "day": 10,
-                    "month": 4,
-                    "year": 2022
-                }
+                "ignition date": "2022-04-10"
             }
         },
         "K20160": {
             "properties": {
                 "fire status": "Out",
                 "fire cause": "Person",
-                "object_id": 30230012,
+                "object_id": "Person",
                 "location description": "1.3km up Timber Lake FSR",
                 "coordinates": {
                     "latitude": 50.5684,
                     "longitude": -120.4455
                 },
-                "ignition date": {
-                    "complete": "2022-05-06",
-                    "day": 6,
-                    "month": 5,
-                    "year": 2022
-                }
+                "ignition date": "2022-05-06"
             }
         },
         "N20249": {
             "properties": {
                 "fire status": "Out",
                 "fire cause": "Person",
-                "object_id": 30230013,
+                "object_id": "Person",
                 "location description": "Sheep Creek",
                 "coordinates": {
                     "latitude": 49.9599,
                     "longitude": -115.7241
                 },
-                "ignition date": {
-                    "complete": "2022-05-31",
-                    "day": 31,
-                    "month": 5,
-                    "year": 2022
-                }
+                "ignition date": "2022-05-31"
             }
         },
         "K50275": {
             "properties": {
                 "fire status": "Out",
                 "fire cause": "Lightning",
-                "object_id": 30230014,
+                "object_id": "Lightning",
                 "location description": "K Mountain",
                 "coordinates": {
                     "latitude": 49.1705,
                     "longitude": -119.7894
                 },
-                "ignition date": {
-                    "complete": "2022-06-05",
-                    "day": 5,
-                    "month": 6,
-                    "year": 2022
-                }
+                "ignition date": "2022-06-05"
+            }
+        },
+        "G40347": {
+            "properties": {
+                "fire status": "Out",
+                "fire cause": "Lightning",
+                "object_id": "Lightning",
+                "location description": "Lucas Creek",
+                "coordinates": {
+                    "latitude": 53.5354,
+                    "longitude": -125.05
+                },
+                "ignition date": "2022-06-27"
             }
         },
         "C50045": {
             "properties": {
                 "fire status": "Out",
                 "fire cause": "Person",
-                "object_id": 30230015,
+                "object_id": "Person",
                 "location description": "5km W Chilko Newton Rd",
                 "coordinates": {
                     "latitude": 52.0999,
                     "longitude": -123.5856
                 },
-                "ignition date": {
-                    "complete": "2022-04-13",
-                    "day": 13,
-                    "month": 4,
-                    "year": 2022
-                }
+                "ignition date": "2022-04-13"
             }
         },
         "C20208": {
             "properties": {
                 "fire status": "Out",
                 "fire cause": "Person",
-                "object_id": 30230016,
+                "object_id": "Person",
                 "location description": "Chimney Lake",
                 "coordinates": {
                     "latitude": 51.9288,
                     "longitude": -121.9571
                 },
-                "ignition date": {
-                    "complete": "2022-05-22",
-                    "day": 22,
-                    "month": 5,
-                    "year": 2022
-                }
-            }
-        },
-        "G40217": {
-            "properties": {
-                "fire status": "Out",
-                "fire cause": "Person",
-                "object_id": 30230017,
-                "location description": "Sutherland",
-                "coordinates": {
-                    "latitude": 54.1228,
-                    "longitude": -124.6846
-                },
-                "ignition date": {
-                    "complete": "2022-05-22",
-                    "day": 22,
-                    "month": 5,
-                    "year": 2022
-                }
+                "ignition date": "2022-05-22"
             }
         },
         "V10229": {
             "properties": {
                 "fire status": "Out",
                 "fire cause": "Unknown",
-                "object_id": 30230018,
+                "object_id": "Unknown",
                 "location description": "Slollicum Creek",
                 "coordinates": {
                     "latitude": 49.3869,
                     "longitude": -121.7413
                 },
-                "ignition date": {
-                    "complete": "2022-05-25",
-                    "day": 25,
-                    "month": 5,
-                    "year": 2022
-                }
+                "ignition date": "2022-05-25"
             }
         },
         "K40021": {
             "properties": {
                 "fire status": "Out",
                 "fire cause": "Person",
-                "object_id": 30230019,
+                "object_id": "Person",
                 "location description": "2 km on Arthur Creek FSR",
                 "coordinates": {
                     "latitude": 50.5427,
                     "longitude": -119.5923
                 },
-                "ignition date": {
-                    "complete": "2022-04-08",
-                    "day": 8,
-                    "month": 4,
-                    "year": 2022
-                }
+                "ignition date": "2022-04-08"
             }
         },
         "C20033": {
             "properties": {
                 "fire status": "Out",
                 "fire cause": "Person",
-                "object_id": 30230020,
+                "object_id": "Person",
                 "location description": "West Fraser Rd",
                 "coordinates": {
                     "latitude": 52.357,
                     "longitude": -122.369
                 },
-                "ignition date": {
-                    "complete": "2022-04-10",
-                    "day": 10,
-                    "month": 4,
-                    "year": 2022
-                }
+                "ignition date": "2022-04-10"
             }
         },
         "N60046": {
             "properties": {
                 "fire status": "Out",
                 "fire cause": "Person",
-                "object_id": 30230021,
+                "object_id": "Person",
                 "location description": "Midway Mill",
                 "coordinates": {
                     "latitude": 49.0218,
                     "longitude": -118.8551
                 },
-                "ignition date": {
-                    "complete": "2022-05-13",
-                    "day": 13,
-                    "month": 5,
-                    "year": 2022
-                }
+                "ignition date": "2022-05-13"
             }
         },
         "C50047": {
             "properties": {
                 "fire status": "Out",
                 "fire cause": "Person",
-                "object_id": 30230022,
+                "object_id": "Person",
                 "location description": "6km W Chilko Newton Rd",
                 "coordinates": {
                     "latitude": 52.0967,
                     "longitude": -123.6043
                 },
-                "ignition date": {
-                    "complete": "2022-04-13",
-                    "day": 13,
-                    "month": 4,
-                    "year": 2022
-                }
+                "ignition date": "2022-04-13"
             }
         },
         "C50056": {
             "properties": {
                 "fire status": "Out",
                 "fire cause": "Person",
-                "object_id": 30230023,
+                "object_id": "Person",
                 "location description": "Alexis Lake Rd",
                 "coordinates": {
                     "latitude": 52.1375,
                     "longitude": -123.401
                 },
-                "ignition date": {
-                    "complete": "2022-04-14",
-                    "day": 14,
-                    "month": 4,
-                    "year": 2022
-                }
+                "ignition date": "2022-04-14"
+            }
+        },
+        "V50359": {
+            "properties": {
+                "fire status": "Under Control",
+                "fire cause": "Lightning",
+                "object_id": "Lightning",
+                "location description": "South of Southgate River",
+                "coordinates": {
+                    "latitude": 50.8559,
+                    "longitude": -124.6955
+                },
+                "ignition date": "2022-06-28"
+            }
+        },
+        "V80360": {
+            "properties": {
+                "fire status": "Out",
+                "fire cause": "Lightning",
+                "object_id": "Lightning",
+                "location description": "Middle Memekay",
+                "coordinates": {
+                    "latitude": 50.1073,
+                    "longitude": -125.9002
+                },
+                "ignition date": "2022-06-28"
+            }
+        },
+        "G10357": {
+            "properties": {
+                "fire status": "Out",
+                "fire cause": "Lightning",
+                "object_id": "Lightning",
+                "location description": "North Lodi Lake",
+                "coordinates": {
+                    "latitude": 53.4296,
+                    "longitude": -122.087
+                },
+                "ignition date": "2022-06-28"
+            }
+        },
+        "V10362": {
+            "properties": {
+                "fire status": "Out",
+                "fire cause": "Unknown",
+                "object_id": "Unknown",
+                "location description": "Chehalis Lake",
+                "coordinates": {
+                    "latitude": 49.458,
+                    "longitude": -121.9888
+                },
+                "ignition date": "2022-06-28"
             }
         },
         "K50003": {
             "properties": {
                 "fire status": "Out",
                 "fire cause": "Person",
-                "object_id": 30230024,
+                "object_id": "Person",
                 "location description": "Keremeos Bypass",
                 "coordinates": {
                     "latitude": 49.2079,
                     "longitude": -119.8481
                 },
-                "ignition date": {
-                    "complete": "2022-04-02",
-                    "day": 2,
-                    "month": 4,
-                    "year": 2022
-                }
+                "ignition date": "2022-04-02"
             }
         },
         "C50002": {
             "properties": {
                 "fire status": "Out",
                 "fire cause": "Person",
-                "object_id": 30230025,
+                "object_id": "Person",
                 "location description": "S of Lee's Corner",
                 "coordinates": {
                     "latitude": 51.9335,
                     "longitude": -123.0846
                 },
-                "ignition date": {
-                    "complete": "2022-04-02",
-                    "day": 2,
-                    "month": 4,
-                    "year": 2022
-                }
+                "ignition date": "2022-04-02"
             }
         },
         "K20150": {
             "properties": {
                 "fire status": "Out",
                 "fire cause": "Person",
-                "object_id": 30230026,
+                "object_id": "Person",
                 "location description": "Duck range/Hanna Road",
                 "coordinates": {
                     "latitude": 50.6167,
                     "longitude": -119.8966
                 },
-                "ignition date": {
-                    "complete": "2022-05-02",
-                    "day": 2,
-                    "month": 5,
-                    "year": 2022
-                }
+                "ignition date": "2022-05-02"
             }
         },
         "C50155": {
             "properties": {
                 "fire status": "Out",
                 "fire cause": "Person",
-                "object_id": 30230027,
+                "object_id": "Person",
                 "location description": "Anahim Dump Rd",
                 "coordinates": {
                     "latitude": 52.0032,
                     "longitude": -123.1391
                 },
-                "ignition date": {
-                    "complete": "2022-05-05",
-                    "day": 5,
-                    "month": 5,
-                    "year": 2022
-                }
+                "ignition date": "2022-05-05"
             }
         },
         "C50085": {
             "properties": {
                 "fire status": "Out",
                 "fire cause": "Person",
-                "object_id": 30230028,
+                "object_id": "Person",
                 "location description": "Anaham Reserve",
                 "coordinates": {
                     "latitude": 52.0314,
                     "longitude": -123.1829
                 },
-                "ignition date": {
-                    "complete": "2022-04-20",
-                    "day": 20,
-                    "month": 4,
-                    "year": 2022
-                }
+                "ignition date": "2022-04-20"
             }
         },
         "K40131": {
             "properties": {
                 "fire status": "Out",
                 "fire cause": "Person",
-                "object_id": 30230029,
+                "object_id": "Person",
                 "location description": "Horseshoe Bay",
                 "coordinates": {
                     "latitude": 50.9808,
                     "longitude": -119.1169
                 },
-                "ignition date": {
-                    "complete": "2022-04-28",
-                    "day": 28,
-                    "month": 4,
-                    "year": 2022
-                }
+                "ignition date": "2022-04-28"
             }
         },
         "K40141": {
             "properties": {
                 "fire status": "Out",
                 "fire cause": "Person",
-                "object_id": 30230030,
+                "object_id": "Person",
                 "location description": "6-7km George Creek FSR",
                 "coordinates": {
                     "latitude": 50.5218,
                     "longitude": -119.8795
                 },
-                "ignition date": {
-                    "complete": "2022-04-30",
-                    "day": 30,
-                    "month": 4,
-                    "year": 2022
-                }
+                "ignition date": "2022-04-30"
             }
         },
         "C50142": {
             "properties": {
                 "fire status": "Out",
                 "fire cause": "Person",
-                "object_id": 30230031,
+                "object_id": "Person",
                 "location description": "Puntzi Lake Rd",
                 "coordinates": {
                     "latitude": 52.1971,
                     "longitude": -124.0786
                 },
-                "ignition date": {
-                    "complete": "2022-05-01",
-                    "day": 1,
-                    "month": 5,
-                    "year": 2022
-                }
+                "ignition date": "2022-05-01"
             }
         },
         "N10145": {
             "properties": {
                 "fire status": "Out",
                 "fire cause": "Person",
-                "object_id": 30230032,
+                "object_id": "Person",
                 "location description": "Black Angus Rd",
                 "coordinates": {
                     "latitude": 49.6052,
                     "longitude": -115.8636
                 },
-                "ignition date": {
-                    "complete": "2022-05-01",
-                    "day": 1,
-                    "month": 5,
-                    "year": 2022
-                }
+                "ignition date": "2022-05-01"
             }
         },
         "R10204": {
             "properties": {
                 "fire status": "Out",
                 "fire cause": "Person",
-                "object_id": 30230033,
+                "object_id": "Person",
                 "location description": "Uncha Lake",
                 "coordinates": {
                     "latitude": 53.9324,
                     "longitude": -125.6589
                 },
-                "ignition date": {
-                    "complete": "2022-05-21",
-                    "day": 21,
-                    "month": 5,
-                    "year": 2022
-                }
+                "ignition date": "2022-05-21"
             }
         },
         "C20211": {
             "properties": {
                 "fire status": "Out",
                 "fire cause": "Person",
-                "object_id": 30230034,
+                "object_id": "Person",
                 "location description": "McInnis Rd",
                 "coordinates": {
                     "latitude": 52.05,
                     "longitude": -122.1167
                 },
-                "ignition date": {
-                    "complete": "2022-05-22",
-                    "day": 22,
-                    "month": 5,
-                    "year": 2022
-                }
+                "ignition date": "2022-05-22"
             }
         },
         "G70213": {
             "properties": {
                 "fire status": "Out",
                 "fire cause": "Person",
-                "object_id": 30230035,
+                "object_id": "Person",
                 "location description": "Peace River",
                 "coordinates": {
                     "latitude": 56.1608,
                     "longitude": -121.8373
                 },
-                "ignition date": {
-                    "complete": "2022-05-22",
-                    "day": 22,
-                    "month": 5,
-                    "year": 2022
-                }
+                "ignition date": "2022-05-22"
             }
         },
         "R40097": {
             "properties": {
                 "fire status": "Out",
                 "fire cause": "Person",
-                "object_id": 30230036,
+                "object_id": "Person",
                 "location description": "Suskwa FSR",
                 "coordinates": {
                     "latitude": 55.2103,
                     "longitude": -127.4553
                 },
-                "ignition date": {
-                    "complete": "2022-04-22",
-                    "day": 22,
-                    "month": 4,
-                    "year": 2022
-                }
+                "ignition date": "2022-04-22"
             }
         },
         "R10111": {
             "properties": {
                 "fire status": "Out",
                 "fire cause": "Person",
-                "object_id": 30230037,
+                "object_id": "Person",
                 "location description": "Cheslatta River",
                 "coordinates": {
                     "latitude": 53.7896,
                     "longitude": -125.8296
                 },
-                "ignition date": {
-                    "complete": "2022-04-24",
-                    "day": 24,
-                    "month": 4,
-                    "year": 2022
-                }
+                "ignition date": "2022-04-24"
             }
         },
         "C20110": {
             "properties": {
                 "fire status": "Out",
                 "fire cause": "Person",
-                "object_id": 30230038,
+                "object_id": "Person",
                 "location description": "Riske Creek Dump",
                 "coordinates": {
                     "latitude": 51.9836,
                     "longitude": -122.6238
                 },
-                "ignition date": {
-                    "complete": "2022-04-24",
-                    "day": 24,
-                    "month": 4,
-                    "year": 2022
-                }
+                "ignition date": "2022-04-24"
             }
         },
         "N10132": {
             "properties": {
                 "fire status": "Out",
                 "fire cause": "Person",
-                "object_id": 30230039,
+                "object_id": "Person",
                 "location description": "Wardner Fort Steel Rd",
                 "coordinates": {
                     "latitude": 49.4467,
                     "longitude": -115.4231
                 },
-                "ignition date": {
-                    "complete": "2022-04-29",
-                    "day": 29,
-                    "month": 4,
-                    "year": 2022
-                }
+                "ignition date": "2022-04-29"
             }
         },
         "K70158": {
             "properties": {
                 "fire status": "Out",
                 "fire cause": "Person",
-                "object_id": 30230040,
+                "object_id": "Person",
                 "location description": "6 km Laluwessen Road",
                 "coordinates": {
                     "latitude": 50.4141,
                     "longitude": -121.6403
                 },
-                "ignition date": {
-                    "complete": "2022-05-05",
-                    "day": 5,
-                    "month": 5,
-                    "year": 2022
-                }
+                "ignition date": "2022-05-05"
+            }
+        },
+        "V80366": {
+            "properties": {
+                "fire status": "Out",
+                "fire cause": "Lightning",
+                "object_id": "Lightning",
+                "location description": "North Memekay",
+                "coordinates": {
+                    "latitude": 50.1548,
+                    "longitude": -125.9647
+                },
+                "ignition date": "2022-06-28"
+            }
+        },
+        "G10367": {
+            "properties": {
+                "fire status": "Out",
+                "fire cause": "Lightning",
+                "object_id": "Lightning",
+                "location description": "Bar K Ranch",
+                "coordinates": {
+                    "latitude": 54.0846,
+                    "longitude": -123.025
+                },
+                "ignition date": "2022-06-28"
+            }
+        },
+        "V50368": {
+            "properties": {
+                "fire status": "Out of Control",
+                "fire cause": "Lightning",
+                "object_id": "Lightning",
+                "location description": "Southgate",
+                "coordinates": {
+                    "latitude": 50.8746,
+                    "longitude": -124.7317
+                },
+                "ignition date": "2022-06-28"
+            }
+        },
+        "G60369": {
+            "properties": {
+                "fire status": "Under Control",
+                "fire cause": "Lightning",
+                "object_id": "Lightning",
+                "location description": "Tututi Lake",
+                "coordinates": {
+                    "latitude": 56.863,
+                    "longitude": -126.888
+                },
+                "ignition date": "2022-06-28"
+            }
+        },
+        "K20370": {
+            "properties": {
+                "fire status": "Out",
+                "fire cause": "Lightning",
+                "object_id": "Lightning",
+                "location description": "Badger Lake",
+                "coordinates": {
+                    "latitude": 51.0155,
+                    "longitude": -120.1167
+                },
+                "ignition date": "2022-06-28"
             }
         },
         "C20269": {
             "properties": {
                 "fire status": "Out",
                 "fire cause": "Lightning",
-                "object_id": 30230041,
+                "object_id": "Lightning",
                 "location description": "South side of farwell canyon, lower 1/3 of slope 2",
                 "coordinates": {
                     "latitude": 51.8115,
                     "longitude": -122.5384
                 },
-                "ignition date": {
-                    "complete": "2022-06-03",
-                    "day": 3,
-                    "month": 6,
-                    "year": 2022
-                }
+                "ignition date": "2022-06-03"
             }
         },
         "C10278": {
             "properties": {
                 "fire status": "Out",
                 "fire cause": "Person",
-                "object_id": 30230042,
+                "object_id": "Person",
                 "location description": "Milburn Lake",
                 "coordinates": {
                     "latitude": 53.0218,
                     "longitude": -122.6808
                 },
-                "ignition date": {
-                    "complete": "2022-06-06",
-                    "day": 6,
-                    "month": 6,
-                    "year": 2022
-                }
+                "ignition date": "2022-06-06"
+            }
+        },
+        "K60324": {
+            "properties": {
+                "fire status": "Out",
+                "fire cause": "Person",
+                "object_id": "Person",
+                "location description": "Hamilton Creek",
+                "coordinates": {
+                    "latitude": 50.1068,
+                    "longitude": -120.7533
+                },
+                "ignition date": "2022-06-23"
+            }
+        },
+        "C40371": {
+            "properties": {
+                "fire status": "Out",
+                "fire cause": "Person",
+                "object_id": "Person",
+                "location description": "Long Island Bridge Lake",
+                "coordinates": {
+                    "latitude": 51.5061,
+                    "longitude": -120.7296
+                },
+                "ignition date": "2022-06-28"
             }
         },
         "K60151": {
             "properties": {
                 "fire status": "Out",
                 "fire cause": "Person",
-                "object_id": 30230043,
+                "object_id": "Person",
                 "location description": "Rocky Pines",
                 "coordinates": {
-                    "latitude": 50.176,
-                    "longitude": -120.8654
+                    "latitude": 50.1762,
+                    "longitude": -120.8651
                 },
-                "ignition date": {
-                    "complete": "2022-05-03",
-                    "day": 3,
-                    "month": 5,
-                    "year": 2022
-                }
+                "ignition date": "2022-05-03"
             }
         },
         "C20235": {
             "properties": {
                 "fire status": "Out",
                 "fire cause": "Person",
-                "object_id": 30230044,
+                "object_id": "Person",
                 "location description": "White Rd",
                 "coordinates": {
                     "latitude": 52.1196,
                     "longitude": -122.051
                 },
-                "ignition date": {
-                    "complete": "2022-05-27",
-                    "day": 27,
-                    "month": 5,
-                    "year": 2022
-                }
+                "ignition date": "2022-05-27"
+            }
+        },
+        "G40316": {
+            "properties": {
+                "fire status": "Out",
+                "fire cause": "Unknown",
+                "object_id": "Unknown",
+                "location description": "Francois Lake Road",
+                "coordinates": {
+                    "latitude": 53.9999,
+                    "longitude": -125.2068
+                },
+                "ignition date": "2022-06-19"
             }
         },
         "V70013": {
             "properties": {
                 "fire status": "Out",
                 "fire cause": "Person",
-                "object_id": 30230045,
+                "object_id": "Person",
                 "location description": "Claymore Road W",
                 "coordinates": {
                     "latitude": 49.3456,
                     "longitude": -124.5116
                 },
-                "ignition date": {
-                    "complete": "2022-04-07",
-                    "day": 7,
-                    "month": 4,
-                    "year": 2022
-                }
+                "ignition date": "2022-04-07"
             }
         },
         "C20012": {
             "properties": {
                 "fire status": "Out",
                 "fire cause": "Person",
-                "object_id": 30230046,
+                "object_id": "Person",
                 "location description": "Eagleview Rd",
                 "coordinates": {
                     "latitude": 52.0651,
                     "longitude": -122.1192
                 },
-                "ignition date": {
-                    "complete": "2022-04-07",
-                    "day": 7,
-                    "month": 4,
-                    "year": 2022
-                }
+                "ignition date": "2022-04-07"
             }
         },
         "K20094": {
             "properties": {
                 "fire status": "Out",
                 "fire cause": "Person",
-                "object_id": 30230047,
+                "object_id": "Person",
                 "location description": "Mcconnell Lake, Lac Le Jeune",
                 "coordinates": {
                     "latitude": 50.5248,
                     "longitude": -120.4725
                 },
-                "ignition date": {
-                    "complete": "2022-04-22",
-                    "day": 22,
-                    "month": 4,
-                    "year": 2022
-                }
+                "ignition date": "2022-04-22"
             }
         },
         "K60196": {
             "properties": {
                 "fire status": "Out",
                 "fire cause": "Person",
-                "object_id": 30230048,
+                "object_id": "Person",
                 "location description": "Summers Creek",
                 "coordinates": {
                     "latitude": 49.5977,
                     "longitude": -120.4921
                 },
-                "ignition date": {
-                    "complete": "2022-05-18",
-                    "day": 18,
-                    "month": 5,
-                    "year": 2022
-                }
+                "ignition date": "2022-05-18"
             }
         },
         "G70212": {
             "properties": {
                 "fire status": "Out",
                 "fire cause": "Person",
-                "object_id": 30230049,
+                "object_id": "Person",
                 "location description": "Hwy 52",
                 "coordinates": {
                     "latitude": 55.6474,
                     "longitude": -120.5611
                 },
-                "ignition date": {
-                    "complete": "2022-05-22",
-                    "day": 22,
-                    "month": 5,
-                    "year": 2022
-                }
+                "ignition date": "2022-05-22"
             }
         },
         "C40070": {
             "properties": {
                 "fire status": "Out",
                 "fire cause": "Person",
-                "object_id": 30230050,
+                "object_id": "Person",
                 "location description": "Bradley Creek Rd",
                 "coordinates": {
                     "latitude": 51.8755,
                     "longitude": -121.1049
                 },
-                "ignition date": {
-                    "complete": "1300-01-09",
-                    "day": 9,
-                    "month": 1,
-                    "year": 1300
-                }
+                "ignition date": "2022-04-17"
+            }
+        },
+        "G60375": {
+            "properties": {
+                "fire status": "Being Held",
+                "fire cause": "Lightning",
+                "object_id": "Lightning",
+                "location description": "Tututi Lake",
+                "coordinates": {
+                    "latitude": 56.8682,
+                    "longitude": -126.8817
+                },
+                "ignition date": "2022-06-29"
+            }
+        },
+        "C10376": {
+            "properties": {
+                "fire status": "Out",
+                "fire cause": "Unknown",
+                "object_id": "Unknown",
+                "location description": "6Km Southwest of Lazaroff Lake",
+                "coordinates": {
+                    "latitude": 53.2021,
+                    "longitude": -122.7366
+                },
+                "ignition date": "2022-06-29"
+            }
+        },
+        "R40377": {
+            "properties": {
+                "fire status": "Out",
+                "fire cause": "Unknown",
+                "object_id": "Unknown",
+                "location description": null,
+                "coordinates": {
+                    "latitude": 55.5351,
+                    "longitude": -128.0542
+                },
+                "ignition date": "2022-06-29"
+            }
+        },
+        "R90380": {
+            "properties": {
+                "fire status": "Being Held",
+                "fire cause": "Lightning",
+                "object_id": "Lightning",
+                "location description": "McBride River",
+                "coordinates": {
+                    "latitude": 57.9975,
+                    "longitude": -129.2766
+                },
+                "ignition date": "2022-06-29"
+            }
+        },
+        "G90381": {
+            "properties": {
+                "fire status": "Out of Control",
+                "fire cause": "Lightning",
+                "object_id": "Lightning",
+                "location description": "Coal River",
+                "coordinates": {
+                    "latitude": 59.6396,
+                    "longitude": -126.999
+                },
+                "ignition date": "2022-06-29"
             }
         },
         "K20165": {
             "properties": {
                 "fire status": "Out",
                 "fire cause": "Person",
-                "object_id": 30230051,
+                "object_id": "Person",
                 "location description": "13 Km Goose Lake FSR",
                 "coordinates": {
                     "latitude": 50.5521,
                     "longitude": -120.4332
                 },
-                "ignition date": {
-                    "complete": "2022-05-08",
-                    "day": 8,
-                    "month": 5,
-                    "year": 2022
-                }
+                "ignition date": "2022-05-08"
+            }
+        },
+        "G10307": {
+            "properties": {
+                "fire status": "Out",
+                "fire cause": "Lightning",
+                "object_id": "Lightning",
+                "location description": "Stone Buck FSR",
+                "coordinates": {
+                    "latitude": 53.6955,
+                    "longitude": -122.4832
+                },
+                "ignition date": "2022-06-13"
             }
         },
         "K60262": {
             "properties": {
                 "fire status": "Out",
                 "fire cause": "Lightning",
-                "object_id": 30230052,
+                "object_id": "Lightning",
                 "location description": "Stumbles Creek",
                 "coordinates": {
                     "latitude": 50.1773,
                     "longitude": -120.8808
                 },
-                "ignition date": {
-                    "complete": "2022-06-02",
-                    "day": 2,
-                    "month": 6,
-                    "year": 2022
-                }
+                "ignition date": "2022-06-02"
             }
         },
         "N20261": {
             "properties": {
                 "fire status": "Out",
                 "fire cause": "Person",
-                "object_id": 30230053,
+                "object_id": "Person",
                 "location description": "Johnson Road",
                 "coordinates": {
                     "latitude": 49.9608,
                     "longitude": -115.7258
                 },
-                "ignition date": {
-                    "complete": "2022-06-02",
-                    "day": 2,
-                    "month": 6,
-                    "year": 2022
-                }
+                "ignition date": "2022-06-02"
+            }
+        },
+        "N40326": {
+            "properties": {
+                "fire status": "Under Control",
+                "fire cause": "Lightning",
+                "object_id": "Lightning",
+                "location description": "3Km NW of Martha Creek",
+                "coordinates": {
+                    "latitude": 51.1663,
+                    "longitude": -118.2365
+                },
+                "ignition date": "2022-06-22"
+            }
+        },
+        "K20333": {
+            "properties": {
+                "fire status": "Under Control",
+                "fire cause": "Person",
+                "object_id": "Person",
+                "location description": "53km up Criss Creek FSR",
+                "coordinates": {
+                    "latitude": 51.0279,
+                    "longitude": -120.7622
+                },
+                "ignition date": "2022-06-23"
+            }
+        },
+        "K20346": {
+            "properties": {
+                "fire status": "Out",
+                "fire cause": "Person",
+                "object_id": "Person",
+                "location description": "Venables Valley South Road",
+                "coordinates": {
+                    "latitude": 50.5902,
+                    "longitude": -121.3208
+                },
+                "ignition date": "2022-06-27"
             }
         },
         "K20086": {
             "properties": {
                 "fire status": "Out",
                 "fire cause": "Person",
-                "object_id": 30230054,
+                "object_id": "Person",
                 "location description": "1km up Timber Lake FSR",
                 "coordinates": {
                     "latitude": 50.5697,
                     "longitude": -120.4478
                 },
-                "ignition date": {
-                    "complete": "2022-04-20",
-                    "day": 20,
-                    "month": 4,
-                    "year": 2022
-                }
+                "ignition date": "2022-04-20"
             }
         },
         "K50134": {
             "properties": {
                 "fire status": "Out",
                 "fire cause": "Person",
-                "object_id": 30230055,
+                "object_id": "Person",
                 "location description": "Drought Creek and Hwy 97c",
                 "coordinates": {
                     "latitude": 49.8046,
                     "longitude": -119.6748
                 },
-                "ignition date": {
-                    "complete": "2022-04-30",
-                    "day": 30,
-                    "month": 4,
-                    "year": 2022
-                }
+                "ignition date": "2022-04-30"
             }
         },
         "K50200": {
             "properties": {
                 "fire status": "Out",
                 "fire cause": "Person",
-                "object_id": 30230056,
+                "object_id": "Person",
                 "location description": "Venner Creek",
                 "coordinates": {
                     "latitude": 49.8329,
                     "longitude": -119.7897
                 },
-                "ignition date": {
-                    "complete": "2022-05-20",
-                    "day": 20,
-                    "month": 5,
-                    "year": 2022
-                }
+                "ignition date": "2022-05-20"
             }
         },
         "K70214": {
             "properties": {
                 "fire status": "Out",
                 "fire cause": "Person",
-                "object_id": 30230057,
+                "object_id": "Person",
                 "location description": "Skiel Mountain",
                 "coordinates": {
                     "latitude": 50.7221,
                     "longitude": -122.2452
                 },
-                "ignition date": {
-                    "complete": "2022-05-22",
-                    "day": 22,
-                    "month": 5,
-                    "year": 2022
-                }
+                "ignition date": "2022-05-22"
             }
         },
         "G70216": {
             "properties": {
                 "fire status": "Out",
                 "fire cause": "Person",
-                "object_id": 30230058,
+                "object_id": "Person",
                 "location description": "Williston Lake",
                 "coordinates": {
                     "latitude": 56.1202,
                     "longitude": -122.3208
                 },
-                "ignition date": {
-                    "complete": "2022-05-23",
-                    "day": 23,
-                    "month": 5,
-                    "year": 2022
-                }
+                "ignition date": "2022-05-23"
             }
         },
         "K20228": {
             "properties": {
                 "fire status": "Out",
                 "fire cause": "Person",
-                "object_id": 30230059,
+                "object_id": "Person",
                 "location description": "Buse Creek",
                 "coordinates": {
                     "latitude": 50.6421,
                     "longitude": -120.0037
                 },
-                "ignition date": {
-                    "complete": "2022-05-25",
-                    "day": 25,
-                    "month": 5,
-                    "year": 2022
-                }
+                "ignition date": "2022-05-22"
             }
         },
         "K40236": {
             "properties": {
                 "fire status": "Out",
                 "fire cause": "Person",
-                "object_id": 30230060,
+                "object_id": "Person",
                 "location description": "20 Km South of Sicamous",
                 "coordinates": {
                     "latitude": 50.8138,
                     "longitude": -119.0489
                 },
-                "ignition date": {
-                    "complete": "2022-05-27",
-                    "day": 27,
-                    "month": 5,
-                    "year": 2022
-                }
+                "ignition date": "2022-05-27"
             }
         },
         "C20238": {
             "properties": {
                 "fire status": "Out",
                 "fire cause": "Person",
-                "object_id": 30230061,
+                "object_id": "Person",
                 "location description": "Chimney Lake Rd",
                 "coordinates": {
                     "latitude": 51.9281,
                     "longitude": -121.9637
                 },
-                "ignition date": {
-                    "complete": "2022-05-27",
-                    "day": 27,
-                    "month": 5,
-                    "year": 2022
-                }
+                "ignition date": "2022-05-27"
+            }
+        },
+        "K20299": {
+            "properties": {
+                "fire status": "Out",
+                "fire cause": "Person",
+                "object_id": "Person",
+                "location description": "8 km Lac Du Bois Road",
+                "coordinates": {
+                    "latitude": 50.8325,
+                    "longitude": -120.42
+                },
+                "ignition date": "2022-06-11"
+            }
+        },
+        "V60382": {
+            "properties": {
+                "fire status": "Out",
+                "fire cause": "Unknown",
+                "object_id": "Unknown",
+                "location description": "Gordon River",
+                "coordinates": {
+                    "latitude": 48.805,
+                    "longitude": -124.3089
+                },
+                "ignition date": "2022-06-30"
+            }
+        },
+        "R90388": {
+            "properties": {
+                "fire status": "Out",
+                "fire cause": "Lightning",
+                "object_id": "Lightning",
+                "location description": "Leo Lake",
+                "coordinates": {
+                    "latitude": 59.9669,
+                    "longitude": -128.9189
+                },
+                "ignition date": "2022-06-30"
             }
         },
         "C20043": {
             "properties": {
                 "fire status": "Out",
                 "fire cause": "Person",
-                "object_id": 30230062,
+                "object_id": "Person",
                 "location description": "Riske Creek",
                 "coordinates": {
                     "latitude": 51.9836,
                     "longitude": -122.6263
                 },
-                "ignition date": {
-                    "complete": "2022-04-12",
-                    "day": 12,
-                    "month": 4,
-                    "year": 2022
-                }
+                "ignition date": "2022-04-12"
             }
         },
-        "2022-06-08": {}
+        "K20325": {
+            "properties": {
+                "fire status": "Out",
+                "fire cause": "Unknown",
+                "object_id": "Unknown",
+                "location description": "Turquoise Lake",
+                "coordinates": {
+                    "latitude": 50.8124,
+                    "longitude": -121.6413
+                },
+                "ignition date": "2022-06-21"
+            }
+        }
     }
 }

@@ -2,13 +2,16 @@ import json
 from datetime import datetime
 
 fire_points_file = 'Data/Fire_Points.json'
+fire_perimeters_file = 'Data/Fire_Perimeters.json'
+historical_point_file = 'Data/Historical_Points.json'
 fire_points_json = {}
+fire_perimeters_json = {}
 
 class fire_point_data_builder:
     def __init__(self, data):
         self.data = data
     
-    def json_builder(self, status, year, date, cause, id, description, lat, long, number, month, day):
+    def point_json_builder(self, status, date, cause, id, description, lat, long, number):
         fire_number = number
         obj = {
             'properties': {
@@ -20,62 +23,79 @@ class fire_point_data_builder:
                     'latitude': lat,
                    'longitude': long
                 },
-                'ignition date': {
-                    'complete': date,
-                    'day': day,
-                    'month': month,
-                    'year': year
+                'ignition date': date
                 }
-            }
         }
-
-        add_fire_points(fire_number, obj)
+        add_fire_points_to_json(fire_number, obj)
         return(obj)
 
+class fire_perimeter_data_builder:
+    def __init__(self, data):
+        self.data = data
 
-def data_extraction(dataset):
-    fire_year = dataset['properties']['IGNITION_DATE']
-    fire_date_string = fire_year.replace('Z','')
+    def perimeter_json_builder(self, number, status, cause, id, ignition_date, coordinates):
+        fire_number = number
+        obj = {
+            'properties': {
+                'fire status': status,
+                'fire cause': cause,
+                'object_id': id,
+                'ignition date': ignition_date
+            },
+            'geometry': coordinates
+        }
+        add_fire_perimeter_to_json(fire_number, obj)
+        return obj
+
+def point_data_extraction(dataset):
+    fire_date = dataset['properties']['IGNITION_DATE']
+    fire_date_string = fire_date.replace('Z','')
     fire_year_split = fire_date_string.split('-',3)
-    ignition_year = int(fire_year_split[0])
-    ignition_month = int(fire_year_split[1])
-    ignition_day = int(fire_year_split[2])
     dict = {
         'fire number': dataset['properties']['FIRE_NUMBER'],
         'object id' : dataset['properties']['OBJECTID'],
         'fire status': dataset['properties']['FIRE_STATUS'],
         'ignition date' : fire_date_string,
-        'ignition month' : ignition_month,
-        'ignition day' : ignition_day,
         'fire year': int(fire_year_split[0]),
         'fire cause' : dataset['properties']['FIRE_CAUSE'],
         'geographic description' : dataset['properties']['GEOGRAPHIC_DESCRIPTION'],
         'latitude' : float(dataset['properties']['LATITUDE']),
         'longitude' : float(dataset['properties']['LONGITUDE'])
     }
-    return(dict)
+    return dict 
+
+def perimeter_data_extraction(dataset):
+    fire_date = dataset['properties']['TRACK_DATE']
+    fire_date_string = fire_date.replace('Z','')
+    dict = {
+        'fire number': dataset['properties']['FIRE_NUMBER'],
+        'object id' : dataset['properties']['OBJECTID'],
+        'ignition date': fire_date_string,
+        'fire size square km': dataset['properties']['FEATURE_AREA_SQM'],
+        'fire size hectares': dataset['properties']['FIRE_SIZE_HECTARES'],
+        'fire status': dataset['properties']['FIRE_STATUS'],
+        'source': dataset['properties']['SOURCE'],
+        'geometry': dataset['geometry']['coordinates']
+    }
+    return dict
 
 def sync_file(json_variable, path_to_file):
     with open(path_to_file, 'w') as file:
-        dict_variable = {'Fire points': fire_points_json}
+        now = datetime.today().strftime('%Y-%m-%d')
+        dict_variable = {now: json_variable}
         json_variable = json.dumps(dict_variable, indent = 4, sort_keys=False)
         file.write(json_variable)
 
-def add_fire_points(key_title, dict):
+def add_fire_points_to_json(key_title, dict):
     fire_points_json[key_title] = dict
-    sync_file(dict, 'Data/Fire_Points.json')
+    sync_file(fire_points_json, 'Data/Fire_Points.json')
 
-def add_day_break(dict, path_to_file):
-    now = datetime.today().strftime('%Y-%m-%d')
-    dict[now] = {}
-    sync_file(dict, path_to_file)
+def add_fire_perimeter_to_json(key_title, dict):
+    fire_perimeters_json[key_title] = dict
+    sync_file(fire_perimeters_json, 'Data/Fire_Perimeters.json')
 
 def read_file_as_json(file_path):
     with open(file_path, 'r') as file:
         file_string = file.read()
         json_object = json.loads(file_string)
         return json_object
-
-def initialize_file(path_to_file):
-    now = datetime.today().strftime('%Y-%m-%d')
-    dict[now] = {}
